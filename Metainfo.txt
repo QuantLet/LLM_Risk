@@ -11,4 +11,3 @@ Author: ''
 
 Submitted: 'Monday, 4 November 2024'
 
-This is the repository of the paper "In the Beginning was the Word: LLM-VaR and LLM-ES".
